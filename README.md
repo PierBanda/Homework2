@@ -1,5 +1,5 @@
 # Homework2
-Homework2 per il corso di ciberfisico
+Homework2 per il corso di Laboratorio Ciberfisico
 ----------------------------------------------------------------------------------------------------
 ISTRUZIONI PER IL FUNZIONAMENTO
 
