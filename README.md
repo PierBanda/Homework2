@@ -4,6 +4,7 @@ Homework2 per il corso di Laboratorio Ciberfisico
 Questo progetto consiste nel creare un ambiente in Gazebo dove simulare il comportamento del robot turtlebot3, salvare la mappa generata con rviz, utilizzando la navigazione manuale e avviare la guida autonoma con 2D Nav Goal in rviz.
 
 La repository contiene il file del modello del mondo gazebo, la mappa generata dal robot tutlebot3 lo script per utilizzare la repository e un video dimostrativo.
+
 ----------------------------------------------------------------------------------------------------
 ISTRUZIONI PER IL FUNZIONAMENTO
 
